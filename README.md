@@ -35,6 +35,8 @@ Hi, I'm **k4ssxd**, a researcher focused on:
 - **Automation & data analysis using legal open data**
 
 ---
+[![Discord Presence](https://lanyard.cnrad.dev/api/SEU_ID)](https://discord.com/users/SEU_ID)
+
 
 <p align="center">
   <br>
