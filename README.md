@@ -34,13 +34,6 @@ Hi, I'm **k4ssxd**, a researcher focused on:
 - **Advanced Java development**
 - **Automation & data analysis using legal open data**
 
-> **Legal Notice:** All tools and research here are strictly for **ethical, authorized and legal** use. No illegal intrusion, exploitation or privacy violation is supported.
-
----
-
-## **License**
-MIT + Ethical Use Notice.
-
 ---
 
 <p align="center">
