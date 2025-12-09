@@ -1,10 +1,10 @@
-# 🟩 **k4ssxd — OSINT • OSINT Hunter • Ethical Hacking • Java Dev**
+# **k4ssxd — OSINT • OSINT Hunter • Ethical Hacking • Java Dev**
 
 <div align="center">
 
 
 <p>
-  <img src="https://img.shields.io/badge/H4CK3R-NEON%20GREEN-00ff88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/H4CK3R-NEON%20GREEN-00ff88?styl3e=for-the-badge" />
   <img src="https://img.shields.io/badge/OSINT-TRACKER-00ff88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETHICAL-SECURITY-00ff88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVA-DEV-00ff88?style=for-the-badge" />
@@ -19,7 +19,7 @@
   <small style="color:#9fffd6;">Research — Tools — Java</small>
 </h2>
 
-<p align="center"> <code style="background:#001006;border-radius:6px;padding:4px 10px;color:#00ff88;">Stay ethical. Stay neon.</code> </p>
+<p align="center"> <code style="background:#001006;border-radius:6px;padding:4px 10px;color:#00ff88;">Si vis pacem para bellum.</code> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NEON%20GREEN-H4CK3R-00ff88?style=for-the-badge" />
@@ -29,24 +29,24 @@
 
 ---
 
-## 🟩 **About k4ssxd**
+## **About k4ssxd**
 Hi, I'm **k4ssxd**, a researcher focused on:
 - **Open Source Intelligence (OSINT)**
 - **Ethical hacking & security tooling**
 - **Advanced Java development**
 - **Automation & data analysis using legal open data**
 
-> ⚠️ **Legal Notice:** All tools and research here are strictly for **ethical, authorized and legal** use. No illegal intrusion, exploitation or privacy violation is supported.
+> **Legal Notice:** All tools and research here are strictly for **ethical, authorized and legal** use. No illegal intrusion, exploitation or privacy violation is supported.
 
 ---
 
-## 🟩 **License**
+## **License**
 MIT + Ethical Use Notice.
 
 ---
 
 <p align="center">
   <br>
-  <b style="color:#00ff88;">Stay ethical. Stay neon.</b>
+  <b style="color:#00ff88;">Si vis pacem para bellum.</b>
 </p>
 
