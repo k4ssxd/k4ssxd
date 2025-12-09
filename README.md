@@ -4,7 +4,6 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/H4CK3R-NEON%20GREEN-00ff88?styl3e=for-the-badge" />
   <img src="https://img.shields.io/badge/OSINT-TRACKER-00ff88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETHICAL-SECURITY-00ff88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVA-DEV-00ff88?style=for-the-badge" />
@@ -22,7 +21,6 @@
 <p align="center"> <code style="background:#001006;border-radius:6px;padding:4px 10px;color:#00ff88;">Si vis pacem para bellum.</code> </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEON%20GREEN-H4CK3R-00ff88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OSINT-Researcher-00ff88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-Developer-00ff88?style=for-the-badge" />
 </p>
